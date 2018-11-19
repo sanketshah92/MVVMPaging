@@ -1,0 +1,8 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§ƒ‹Âò,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ŸµŒúÿÿÿÿ8§ƒ‹Âò,
+Ssquid:S1068"7Remove this unused "compositeDisposable" private field.(á™µæ8§ƒ‹Âò,
+Ssquid:S1068"2Remove this unused "coinRepository" private field.(×º°ÿÿÿÿÿ8§ƒ‹Âò,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§ƒ‹Âò,
+Ksquid:S1068"/Remove this unused "sourceIndex" private field.(É¸åÉ8§ƒ‹Âò,
+Ysquid:S1155">Use isEmpty() to check whether the collection is empty or not.(üÜş@8§ƒ‹Âò,

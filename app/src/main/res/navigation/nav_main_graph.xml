@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.sample.sanketshah.coin.view.fragments.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_coinList"
+            app:destination="@+id/coinListFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/coinListFragment"
+        android:name="com.sample.sanketshah.coin.view.fragments.CoinListFragment"
+        android:label="fragment_coinlist"
+        tools:layout="@layout/fragment_coinlist">
+        <action
+            android:id="@+id/action_cointDetail"
+            app:destination="@+id/coinDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/coinDetailFragment"
+        android:name="com.sample.sanketshah.coin.view.fragments.CoinDetailFragment"
+        android:label="fragment_coindetail"
+        tools:layout="@layout/fragment_coindetail" />
+</navigation>

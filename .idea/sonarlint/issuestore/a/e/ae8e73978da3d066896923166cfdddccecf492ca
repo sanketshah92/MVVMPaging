@@ -1,0 +1,7 @@
+
+"squid:ClassVariableVisibilityCheck"YMake DIFF_CALLBACK a static final constant or non-public and provide accessors if needed.(ùü¿ı8± ØÂò,
+Lsquid:S1659J".Declare "txtCoinAlgorithm" on a separate line.(¿Ô‰ê8± ØÂò,
+Gsquid:S1659J")Declare "txtCoinName" on a separate line.(¿Ô‰ê8± ØÂò,
+Qsquid:S1444"3Make this "public static DIFF_CALLBACK" field final(ùü¿ı8± ØÂò,
+vsquid:S3008"XRename this field "DIFF_CALLBACK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùü¿ı8± ØÂò,
+0squid:S2176I"Rename this class.(Äß³Ø8± ØÂò,

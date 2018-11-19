@@ -1,0 +1,8 @@
+
+ysquid:S1450"[Remove the "apiInterface" field and declare it as a local variable in the relevant methods.(ÿ¼ª 8Û°šÄò,
+•"squid:ClassVariableVisibilityCheck "[Make calculatedTotal a static final constant or non-public and provide accessors if needed.(’€Äıÿÿÿÿ8Û°šÄò,
+Msquid:S14814"/Remove this unused "bigDecimal" local variable.(Œ©©õ8Û°šÄò,
+Isquid:S1068"+Remove this unused "builder" private field.(Ü±Ëâ8Û°šÄò,
+Asquid:S11488"#Use a logger to log this exception.(½µì8Û°šÄò,
+Jsquid:S16128",Replace this lambda with a method reference.(½µì8Û°šÄò,
+isquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(¾Ş‰”8Û°šÄò,
